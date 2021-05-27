@@ -4,13 +4,13 @@ export const webApp = [
       id: 1,
       title: "Haart - Bachelors",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://i.pinimg.com/originals/b6/97/61/b69761529fa0790d0a308b756e00b1e6.png",
     },
     {
       id: 2,
       title: "Food List",
       img:
-        "https://cdn.dribbble.com/users/702789/screenshots/15054318/media/4ea5d492b7b07eebc9528ff960794879.png?compress=1&resize=1200x900",
+        "https://i.pinimg.com/236x/10/6d/49/106d496174ed10f0565688850c2ae46d.jpg",
     },
     {
       id: 3,
@@ -23,33 +23,23 @@ export const webApp = [
   export const FeaturedArt = [
     {
       id: 1,
-      title: "Web Social Media App",
-      img: "https://cdn.dribbble.com/users/5031392/screenshots/15467520/media/c36b3b15b25b1e190d081abdbbf947cf.png?compress=1&resize=1200x900",
+      title: "Potions",
+      img: "https://i.pinimg.com/originals/dc/3e/91/dc3e914ac3f88f73d7adef381df2440c.png",
     },
     {
       id: 2,
-      title: "Web Rampa UI Design",
-      img: "https://cdn.dribbble.com/users/3967258/screenshots/15463803/media/4fddb9a2caf3b3bd634060f706a91e73.png?compress=1&resize=1200x900",
+      title: "Ms. Strawberry",
+      img: "https://i.pinimg.com/originals/28/22/4d/28224df3f6acdc52c380cae726528485.png",
     },
     {
       id: 3,
-      title: "Web E-commerce Design",
-      img: "https://cdn.dribbble.com/users/3637068/screenshots/15467010/media/69a3279182b75365013fe285733d1122.png?compress=1&resize=1200x900",
+      title: "Little Cafe",
+      img: "https://i.pinimg.com/originals/07/1b/35/071b354eafa7446e3de2ae140aec72e9.png",
     },
     {
       id: 4,
-      title: "Web Relax App",
-      img: "https://cdn.dribbble.com/users/2264844/screenshots/15463998/media/d85e92a332c41094f68e1f716884f7ce.jpg?compress=1&resize=1200x900",
-    },
-    {
-      id: 5,
-      title: "Web Design",
-      img: "https://cdn.dribbble.com/users/387658/screenshots/15458608/media/e92ec1dd33dd1170ae3dc9c5272f2693.jpg?compress=1&resize=1200x900",
-    },
-    {
-      id: 6,
-      title: "Web Banking App",
-      img: "https://cdn.dribbble.com/users/6384483/screenshots/15468426/media/ce9479fa1f8dba3a4a49840d76e55e31.png?compress=1&resize=1200x900",
+      title: "Saturn",
+      img: "https://i.pinimg.com/564x/d6/44/06/d64406677fc9a1d7bcdb8ab162add71e.jpg",
     },
   ];
   
@@ -58,7 +48,7 @@ export const webApp = [
       id: 1,
       title: "My First Unity Project",
       img:
-        "https://cdn.dribbble.com/users/2597268/screenshots/15468893/media/44313553d73ba41580f1df69749bba28.jpg?compress=1&resize=1200x900",
+        "https://i.pinimg.com/originals/5a/26/36/5a26369c1211e3e6bcec3708abe2b8d8.png",
     }
   ];
   
@@ -67,7 +57,7 @@ export const webApp = [
       id: 1,
       title: "Knitting App",
       img:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKvdHn8GmPGCO0y3SJqNHACygpm0h9VycMHg&usqp=CAU",
+        "https://i.pinimg.com/originals/94/c9/e0/94c9e0b4f87b529c1ab0fa7beb38408f.png",
     }
   ];
   
