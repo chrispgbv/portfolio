@@ -16,7 +16,7 @@ export const webApp = [
       id: 3,
       title: "First Portfolio",
       img:
-        "https://cdn.dribbble.com/users/1387827/screenshots/15466426/media/deb2dca6762cd3610321c98bfccb0b72.png?compress=1&resize=1200x900",
+        "https://i.pinimg.com/originals/39/d4/93/39d4933da375ac487696d2ea6825255f.png",
     }
   ];
   
