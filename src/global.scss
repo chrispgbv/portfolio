@@ -1,4 +1,4 @@
-$mainColor: #15023a;
+$mainColor: #86a8e7;
 
 $width: 768px;
 
@@ -6,4 +6,16 @@ $width: 768px;
     @media (max-width: #{$width}){
         @content
     }
+}
+
+h1{
+    color: darkblue
+}
+
+h2{
+    color: darkblue;
+}
+
+h3{
+    color: darkblue;
 }

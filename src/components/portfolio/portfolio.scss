@@ -16,10 +16,13 @@
   }
 
   ul {
-    margin: 10px;
-    padding: 0;
+    margin: 20px;
+    padding: 10px;
     list-style: none;
     display: flex;
+    li{
+      padding: 15px;
+    }
 
     @include mobile{
       margin: 10px 0;
@@ -40,8 +43,8 @@
     }
 
     .item {
-      width: 220px;
-      height: 150px;
+      width: 300px;
+      height: 200px;
       border-radius: 20px;
       border: 1px solid rgb(240, 239, 239);
       margin: 10px 20px;

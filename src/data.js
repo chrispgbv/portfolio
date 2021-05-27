@@ -17,9 +17,15 @@ export const webApp = [
       title: "First Portfolio",
       img:
         "https://i.pinimg.com/originals/39/d4/93/39d4933da375ac487696d2ea6825255f.png",
-    }
+    },
+    {
+      id: 4,
+      title: "Infosec Project",
+      img: "https://www.careersincyber.com/images/421/default/what-s-the-difference-between-information-security-and-cyber-security-_201909181253132.png",
+
+    },
   ];
-  
+    
   export const FeaturedArt = [
     {
       id: 1,
